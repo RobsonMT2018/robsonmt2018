@@ -15,7 +15,7 @@
   </tr>
 </table><br/>
 
-<p></p>
+<p>
 
 
 ### 🏆 GitHub Profile Trophy:
@@ -33,4 +33,5 @@
     
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/RobsonMT2018/count.svg" />  
+</p>
 </p>
