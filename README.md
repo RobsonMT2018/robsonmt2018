@@ -21,7 +21,7 @@
  <a
    <img width=900
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) href="https://github.com/ryo-ma/github-profile-trophy">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </a>
 </p>
