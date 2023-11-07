@@ -1,4 +1,4 @@
-# Olá, Sou Robson MT!
+# Hello, my name Robson MT!
 
 ### ⚙️ GitHub Analytics
 
@@ -6,27 +6,16 @@
   </td>
    </tr>
  </table><br/>
-<br>
 
 
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=robsonmt&theme=dark&hide_border=false" alt="Github stats"/>
+
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonMT&theme=dark&hide_border=false" alt="Github stats"/>
   </td>
    </tr>
  </table>
 
-<br>
 
-### 🏆 GitHub Profile Trophy:
-<p align="center">
- <a
-   <img width=900
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</a>
-</p>
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonMT&layout=compact)
   
 <div align=center>
 <br>
