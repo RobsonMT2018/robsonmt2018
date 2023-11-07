@@ -12,10 +12,10 @@
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonMT&theme=dark&hide_border=false" alt="Github stats"/>
   </td>
    </tr>
- </table>
+ </table><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonMT&layout=compact)
   
 <div align=center>
 <br>
