@@ -14,7 +14,7 @@
    </tr>
  </table><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonMT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <div align=center>
@@ -23,6 +23,6 @@
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/RobsonMT2018/count.svg" />  
+  <img src="https://profile-counter.glitch.me/RobsonMT/count.svg" />  
 </p>
 </p>
