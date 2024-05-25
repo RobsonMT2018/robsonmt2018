@@ -4,7 +4,7 @@
 <div align="center">
      <a href="https://www.instagram.com/robsonmt20"><img width="58" height="58" src="https://img.icons8.com/doodle/48/instagram--v1.png" alt="instagram--v1"></a>
      <a href="https://www.facebook.com/Robsontomosique?locale=pt_BR"><img width="58" height="58" src="https://img.icons8.com/pulsar-color/38/facebook.png" alt="facebook"></a>
-     <a href="https://www.linkedin.com/in/robson-m-tomosique-4491a7151"><img width="58" height="58" src="https://img.icons8.com/doodle/48/linkedin--v2.png" alt="linkedin--v2"/></a>
+     <a href=https://www.linkedin.com/in/robson-maciel-9213b719b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="58" height="58" src="https://img.icons8.com/doodle/48/linkedin--v2.png" alt="linkedin--v2"/></a>
      <h1><img width="40" height="40" src="https://img.icons8.com/pulsar-color/38/discord-logo.png" alt="discord-logo"/> robson6205</h1>
 </div>
 
