@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RobsonMT2018/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RobsonMT2018/RobsonMT2018/output/snake.svg" alt="Snake animation" />
 
 ###
