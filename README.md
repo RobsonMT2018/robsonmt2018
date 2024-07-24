@@ -39,12 +39,3 @@
 
 ### <a href="https://github.com/RobsonMT2018"><img width="28" height="28" src="https://img.icons8.com/fluency/28/end.png" alt="end"/></a> GitHub Profile
 </br>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RobsonMT2018/RobsonMT2018/output/snake.svg" alt="Snake animation" />
-
-###
