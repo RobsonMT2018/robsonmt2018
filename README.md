@@ -7,6 +7,7 @@
      <h1><img width="40" height="40" src="https://img.icons8.com/pulsar-color/38/discord-logo.png" alt="discord-logo"/> robson6205</h1>
 </div>
 
+---------------------------------------------------------
 
 ### ⚙️ GitHub Analytics
  
