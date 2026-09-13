@@ -9,9 +9,9 @@
   
 
 <p align="center">
-  <a href="#about"><b>Sobre Mim</b></a> • 
-  <a href="#stack"><b>Stack</b></a> • 
-  <a href="#projects"><b>Projetos</b></a> • 
+  <a href="#about"><b>Sobre Mim</b></a> 
+  <a href="#stack"><b>Stack</b></a> 
+  <a href="#projects"><b>Projetos</b></a>
   <a href="#stats"><b>Stats</b></a>
 </p>
 
