@@ -6,8 +6,7 @@
 
   <br>
 
-  <!-- TYPING SVG - CORRIGIDO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Robson+M+T!+👋;Front-end+Developer+%26+C%23+Explorer;Building+modern+web+interfaces+%26+security" alt="Typing SVG" />
+  
 
 <p align="center">
   <a href="#about"><b>Sobre Mim</b></a> • 
