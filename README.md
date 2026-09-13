@@ -84,7 +84,7 @@ Desenvolvedor focado em criar **interfaces modernas, responsivas e performática
         <code>React</code> • <code>Node.js</code> • <code>Express</code>
       </p>
       <p align="center">
-        <a href="https://github.com/robsonmt2018" target="_blank"><b>[ Ver Código ]</b></a>
+        <a href="https://github.com/robsonmt2018/App-loja" target="_blank"><b>[ Ver Código ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
