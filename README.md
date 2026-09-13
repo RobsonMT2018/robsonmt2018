@@ -90,21 +90,69 @@ Desenvolvedor focado em criar **interfaces modernas, responsivas e performática
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 App / Gestão de Estoque & Vendas</h3>
+      <h3 align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">🛒 Gestão de Estoque & PDV</a>
+      </h3>
       <p align="center">
-        Sistema completo de gerenciamento de loja/lanchonete com PDV, gestão de estoque automatizada por receitas e relatórios.
+        Sistema completo de gerenciamento de vendas e estoque com interface PDV, baixa automática de insumos por receita e relatórios detalhados.
       </p>
       <p align="center">
-        <code>React</code> • <code>Express</code> • <code>Node.js</code>
+        <code>React</code> • <code>Node.js</code> • <code>Express</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ Web Security Analyzer</h3>
+      <h3 align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">🛡️ Web Security Analyzer</a>
+      </h3>
       <p align="center">
-        Ferramenta de análise de segurança para detectar elementos suspeitos injetados no DOM, scripts maliciosos e seções ocultas.
+        Dashboard para análise de segurança local e detecção de elementos suspeitos, scripts injetados e potenciais riscos no DOM.
       </p>
       <p align="center">
-        <code>JavaScript</code> • <code>HTML5</code> • <code>Security</code>
+        <code>JavaScript</code> • <code>HTML5</code> • <code>Cybersecurity</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">💻 Developer Portfolio</a>
+      </h3>
+      <p align="center">
+        Meu portfólio pessoal responsivo com suporte a temas, cards dinâmicos de habilidades e navegação fluida.
+      </p>
+      <p align="center">
+        <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">🎮 2D Game Mechanics (C# / Unity)</a>
+      </h3>
+      <p align="center">
+        Protótipos e mecânicas de jogos 2D desenvolvidos para explorar física, controle de personagens e lógica de programação em C#.
+      </p>
+      <p align="center">
+        <code>C#</code> • <code>Unity</code> • <code>2D Physics</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/robsonmt2018" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
