@@ -116,7 +116,7 @@ Sistema de gerenciamento de estoque e vendas com interface web.
 - Express
 - JavaScript
 
-<a href="https://github.com/robsonmt2018">
+<a href="https://github.com/robsonmt2018/App-loja">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver Projeto"/>
 </a>
 
@@ -130,14 +130,14 @@ Sistema de gerenciamento de estoque e vendas com interface web.
 
 **Tipo:** Cybersecurity
 
-Projeto voltado para análise de segurança e identificação de possíveis riscos em aplicações web.
+Projeto voltado para análise de segurança e identificação de riscos em aplicações web.
 
 **Tecnologias:**
 
 - JavaScript
 - Cybersecurity
 
-<a href="https://github.com/robsonmt2018">
+<a href="https://github.com/robsonmt2018/web-security-analyzer">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver Projeto"/>
 </a>
 
