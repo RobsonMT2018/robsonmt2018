@@ -83,8 +83,10 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 ## 🎮 Game Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,unity3d" alt="JavaScript HTML CSS Unity3D"/>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript HTML CSS"/>
 </p>
+
+___
 
 **Game Dev Focus:**
 
