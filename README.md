@@ -163,28 +163,6 @@ Projetos e experimentos de desenvolvimento de jogos:
 
 ---
 
-# 🧩 CURRENT MISSIONS
-
-```text
-╔══════════════════════════════════════════════════╗
-║                 ACTIVE QUESTS                    ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  [✓] React.js & JavaScript                       ║
-║  [✓] HTML & CSS                                  ║
-║  [✓] TypeScript                                  ║
-║  [→] C# & .NET                                   ║
-║  [→] Node.js & Express                           ║
-║  [→] Full Stack Development                      ║
-║  [→] Game Development                             ║
-║  [→] Cybersecurity                               ║
-║  [→] Clean Code & Best Practices                 ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
----
-
 # 🏆 ACHIEVEMENTS
 
 <div align="center">
