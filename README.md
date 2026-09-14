@@ -139,7 +139,7 @@ Projeto voltado para análise de segurança e identificação de riscos em aplic
 - JavaScript
 - Cybersecurity
 
-<a href="https://github.com/robsonmt2018/web-security-analyzer">
+<a href="https://github.com/robsonmt2018/App-antivirus">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver Projeto"/>
 </a>
 
