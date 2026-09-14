@@ -54,7 +54,7 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 
 - 🎮 Interesse em desenvolvimento de jogos digitais.
 - 💻 Desenvolvimento Front-end e aplicações Web.
-- ⚡ Explorando C# e .NET para desenvolvimento Back-end.
+- ⚡ C# e .NET para desenvolvimento Back-end.
 - 🧠 Aprendizado contínuo em programação e tecnologia.
 - 🚀 Construindo projetos para evoluir minhas habilidades.
 
