@@ -90,7 +90,7 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 
 - Desenvolvimento de jogos 2D com HTML, CSS e JavaScript.
 - Experimentos com Phaser e Three.js.
-- Lógica de programação, colisões, pontuação e sistemas de jogo.
+- Projetos na Unity3D.
 - Exploração de aplicações mobile e WebView.
 
 ---
