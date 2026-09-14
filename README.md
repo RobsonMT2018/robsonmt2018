@@ -1,4 +1,4 @@
-
+ö
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A72,100:00D9FF&height=220&section=header&text=ROBSON%20MACIEL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20GAME%20DEV&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Banner Gamer Developer"/>
@@ -64,26 +64,26 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 
 ## 🎨 Front-end Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap" alt="HTML CSS JavaScript TypeScript React Bootstrap"/>
 </p>
 
 ## 🧙 Back-end & Programming
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" alt="Node.js Express C# .NET"/>
 </p>
 
 ## 🗄️ Database & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,vscode,androidstudio,figma" alt="MySQL Git GitHub VS Code Android Studio Figma"/>
 </p>
 
 ## 🎮 Game Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript HTML CSS"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript HTML CSS Unity3D"/>
 </p>
 
 **Game Dev Focus:**
