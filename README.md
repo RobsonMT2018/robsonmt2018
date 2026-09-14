@@ -77,7 +77,7 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 ## 🗄️ Database & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,vscode,androidstudio,figma" alt="Git GitHub VS Code Android Studio Figma"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma" alt="MySQL Git GitHub VS Code Android Studio Figma"/>
 </p>
 
 ## 🎮 Game Development
