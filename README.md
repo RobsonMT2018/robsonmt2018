@@ -1,11 +1,8 @@
-ö
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A72,100:00D9FF&height=220&section=header&text=ROBSON%20MACIEL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20GAME%20DEV&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Banner Gamer Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A72,100:00D9FF&height=220&section=header&text=ROBSON%20MACIEL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20GAME%20DEV&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Banner Gamer Developer"/>
 
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=PLAYER+1%3A+ROBSON+MACIEL;FULL+STACK+DEVELOPER;CODING+%7C+GAMING+%7C+CREATING;LEVEL+UP+YOUR+SKILLS!" alt="Gamer Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=PLAYER+1%3A+ROBSON+MACIEL;FULL+STACK+DEVELOPER;CODING+%7C+GAMING+%7C+CREATING;LEVEL+UP+YOUR+SKILLS!" alt="Gamer Typing Animation"/>
 
   <br><br>
 
@@ -60,33 +57,38 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 
 ---
 
-# ⚔️ SKILL TREE
+## ⚔️ SKILL TREE
 
-## 🎨 Front-end Development
+
+ 🎨 Front-end Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap" alt="HTML CSS JavaScript TypeScript React Bootstrap"/>
 </p>
+<br>
 
-## 🧙 Back-end & Programming
+ 🧙 Back-end & Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" alt="Node.js Express C# .NET"/>
 </p>
+<br>
 
-## 🗄️ Database & Tools
+ 🗄️ Database & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma" alt="MySQL Git GitHub VS Code Android Studio Figma"/>
 </p>
+<br>
 
-## 🎮 Game Development
+ 🎮 Game Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript HTML CSS"/>
 </p>
 
 ___
+<br>
 
 **Game Dev Focus:**
 
@@ -101,7 +103,7 @@ ___
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ## 🛒 Quest #001
 
@@ -124,7 +126,7 @@ Sistema de gerenciamento de estoque e vendas com interface web.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ## 🛡️ Quest #002
 
