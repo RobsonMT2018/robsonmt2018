@@ -154,6 +154,8 @@ Projeto voltado para análise de segurança e identificação de riscos em aplic
 
 ## 🎮 Game Development Archive
 
+<div align="center">
+  
 Projetos e experimentos de desenvolvimento de jogos:
 
 | Projeto | Descrição |
@@ -165,6 +167,7 @@ Projetos e experimentos de desenvolvimento de jogos:
 | 🌐 Three.js | Experiências 3D para Web e Mobile |
 
 > 🔓 Adicione os links dos repositórios de cada jogo para transformar esta seção em um catálogo de projetos.
+</div>
 
 ---
 
@@ -205,7 +208,8 @@ Projetos e experimentos de desenvolvimento de jogos:
 ---
 
 # 🧠 DEVELOPER MINDSET
-
+<div align="center">
+  
 ```text
 ╔════════════════════════════════════════════╗
 ║                                            ║
@@ -217,7 +221,10 @@ Projetos e experimentos de desenvolvimento de jogos:
 ╚════════════════════════════════════════════╝
 ```
 
+
 > "Transformando design em código, segurança em prática e problemas em soluções."
+</div>
+
 
 <div align="center">
 
