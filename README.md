@@ -8,12 +8,10 @@
 
   <img src="https://komarev.com/ghpvc/?username=robsonmt2018&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
-  <img src="https://img.shields.io/github/followers/robsonmt2018?label=FOLLOWERS&style=for-the-badge&color=0066FF&labelColor=080B18" alt="GitHub Followers"/>
-
+  <img src="https://img.shields.io/github/followers/robsonmt2018?label=FOLLOWERS&style=for-the-badge&color=0066FF&labelColor=080B18" alt="GitHub Followers"/><br>
+   
 </div
 ---
-
-# PORTIFOLIO : https://robsonmt2018.github.io/my_portifolio/
 
 
 # 🎮 PLAYER PROFILE
@@ -58,6 +56,7 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 - 🚀 Construindo projetos para evoluir minhas habilidades.
 
 ---
+## PORTIFOLIO :  <p>https://robsonmt2018.github.io/my_portifolio/</p>
 
 ## ⚔️ SKILL TREE
 
