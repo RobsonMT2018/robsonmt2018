@@ -56,7 +56,7 @@ Atualmente, estou focado em aprimorar minhas habilidades com **React.js, JavaScr
 - 🚀 Construindo projetos para evoluir minhas habilidades.
 
 ---
-## 🎯 PORTIFOLIO :  <p>https://robsonmt2018.github.io/my_portifolio/</p>
+## 🎯 Portfolio :  <p>https://robsonmt2018.github.io/my_portifolio/</p>
 
 ## ⚔️ SKILL TREE
 
