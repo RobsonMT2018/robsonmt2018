@@ -10,9 +10,11 @@
 
   <img src="https://img.shields.io/github/followers/robsonmt2018?label=FOLLOWERS&style=for-the-badge&color=0066FF&labelColor=080B18" alt="GitHub Followers"/>
 
-</div>
-
+</div
 ---
+
+# PORTIFOLIO : https://robsonmt2018.github.io/my_portifolio/
+
 
 # 🎮 PLAYER PROFILE
 
@@ -203,27 +205,17 @@ Projetos e experimentos de desenvolvimento de jogos:
 
 ---
 
-# 📈 CONTRIBUTION XP
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robsonmt2018&bg_color=050816&color=00D9FF&line=0066FF&point=FFFFFF&area=true&hide_border=true&custom_title=ROBSON%20MACIEL%20%7C%20XP%20ACTIVITY" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
 # 🧠 DEVELOPER MINDSET
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║       CODE IS MY WEAPON.                         ║
-║       CREATIVITY IS MY POWER.                    ║
-║       EVERY BUG IS A NEW CHALLENGE.              ║
-║       EVERY PROJECT IS A NEW LEVEL.              ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+╔════════════════════════════════════════════╗
+║                                            ║
+║       CODE IS MY WEAPON.                   ║
+║       CREATIVITY IS MY POWER.              ║
+║       EVERY BUG IS A NEW CHALLENGE.        ║
+║       EVERY PROJECT IS A NEW LEVEL.        ║
+║                                            ║
+╚════════════════════════════════════════════╝
 ```
 
 > "Transformando design em código, segurança em prática e problemas em soluções."
