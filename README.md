@@ -233,24 +233,19 @@ Projetos e experimentos de desenvolvimento de jogos:
 </div>
 
 ---
+<h2 align="center">🌐 CONNECT WITH ME</h2>
 
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/robsonmt2018">
-<img src="https://img.shields.io/badge/GITHUB-ROBSONMT2018-080B18?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-</a>
-
-<a href="https://www.instagram.com/robsonmt20/">
-<img src="https://img.shields.io/badge/INSTAGRAM-@ROBSONMT20-080B18?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-080B18?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/robsonmt2018" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-robsonmt2018-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/robsonmt20" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@robsonmt20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <br>
 
