@@ -233,19 +233,7 @@ Projetos e experimentos de desenvolvimento de jogos:
 </div>
 
 ---
-<h2 align="center">🌐 CONNECT WITH ME</h2>
 
-<p align="center">
-  <a href="https://github.com/robsonmt2018" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-robsonmt2018-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/robsonmt20" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@robsonmt20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <br>
 <div align="center">
