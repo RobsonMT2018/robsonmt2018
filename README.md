@@ -234,12 +234,9 @@ Projetos e experimentos de desenvolvimento de jogos:
 
 ---
 
-
-<br>
+## 🌐 CONNECT WITH ME
 
 <div align="center">
-
-## 🌐 CONNECT WITH ME
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> **GitHub** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20"/> **Instagram** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> **LinkedIn** |
 | :---: | :---: | :---: |
