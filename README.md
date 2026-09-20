@@ -1,15 +1,12 @@
+
+<img src="https://komarev.com/ghpvc/?username=robsonmt2018&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/><img src="https://img.shields.io/github/followers/robsonmt2018?label=FOLLOWERS&style=for-the-badge&color=0066FF&labelColor=080B18" alt="GitHub Followers"/>
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A72,100:00D9FF&height=220&section=header&text=ROBSON%20MACIEL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20GAME%20DEV&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Banner Gamer Developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=PLAYER+1%3A+ROBSON+MACIEL;FULL+STACK+DEVELOPER;CODING+%7C+GAMING+%7C+CREATING;LEVEL+UP+YOUR+SKILLS!" alt="Gamer Typing Animation"/>
-
-<br>
-
-  <img src="https://komarev.com/ghpvc/?username=robsonmt2018&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-
-  <img src="https://img.shields.io/github/followers/robsonmt2018?label=FOLLOWERS&style=for-the-badge&color=0066FF&labelColor=080B18" alt="GitHub Followers"/><br>
-   
 </div>
 
 # 🎮 PLAYER PROFILE
