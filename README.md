@@ -86,14 +86,14 @@ ___
 
 ##   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/78e1909a-7b85-4dd3-960f-02a13617691c" /> Game Dev Focus:
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fa28393d-0af9-4830-a2f8-0593b017a410" />    **Desenvolvimento de jogos 2D com HTML, CSS e JavaScript.**
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/fa28393d-0af9-4830-a2f8-0593b017a410" />    **Desenvolvimento de jogos 2D com HTML, CSS e JavaScript.**
 
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/15af1d89-28c1-417d-8d23-aefc100e7971" />    **Experimentos com Phaser e Three.js.**
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/15af1d89-28c1-417d-8d23-aefc100e7971" />    **Experimentos com Phaser e Three.js.**
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c21e85ab-4bc5-4efb-8ad0-f326e7285df2" />    **Projetos na Unity3D.**
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/c21e85ab-4bc5-4efb-8ad0-f326e7285df2" />    **Projetos na Unity3D.**
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/32cb77b9-77bf-42ff-85f7-aa029f6c6831" />    **Exploração de aplicações mobile e WebView.**
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/32cb77b9-77bf-42ff-85f7-aa029f6c6831" />    **Exploração de aplicações mobile e WebView.**
 
 ___
 
