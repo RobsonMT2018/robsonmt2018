@@ -74,13 +74,17 @@ ___
 
 
 
-### **Front-end Development** :   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap" alt="HTML CSS JavaScript TypeScript React Bootstrap"/>
+### **Front-end Development** :   
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap" alt="HTML CSS JavaScript TypeScript React Bootstrap"/>
 
-### **Back-end & Programming** :   <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" alt="Node.js Express C# .NET"/>
+### **Back-end & Programming** :  
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" alt="Node.js Express C# .NET"/>
   
-### **Database & Tools** :   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma" alt="MySQL Git GitHub VS Code Android Studio Figma"/>
+### **Database & Tools** :  
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma" alt="MySQL Git GitHub VS Code Android Studio Figma"/>
   
-### **Game Development** :  <img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript HTML CSS"/>
+### **Game Development** :  
+<img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript HTML CSS"/>
 
 
 ___
